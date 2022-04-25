@@ -1,0 +1,31 @@
+button {
+  border: 1px solid rgb(84, 84, 84);
+  border-radius: 15px;
+  background-color: #fff;
+}
+button:hover {
+  background-color: rgb(84, 84, 84, 0.2);
+}
+button:active {
+  background-color: #fff;
+}
+html,
+body {
+  height: 100%;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 200px;
+  height: 100%;
+}
+.content {
+  /* flex: 1 0 auto; */
+}
+.footer {
+  /* flex: 0 0 auto; */
+}
+.modal__form {
+  display: flex;
+  flex-direction: column;
+}
