@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kazprom-frontend-task-for-practice/static/css/main.f1b4b975.css",
+    "main.js": "/kazprom-frontend-task-for-practice/static/js/main.c341d36f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kazprom-frontend-task-for-practice/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/kazprom-frontend-task-for-practice/index.html",
+    "main.f1b4b975.css.map": "/kazprom-frontend-task-for-practice/static/css/main.f1b4b975.css.map",
+    "main.c341d36f.js.map": "/kazprom-frontend-task-for-practice/static/js/main.c341d36f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kazprom-frontend-task-for-practice/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b4b975.css",
+    "static/js/main.c341d36f.js"
+  ]
+}
